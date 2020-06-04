@@ -1,0 +1,1 @@
+# Veri-seti-ile-makina-renmesi
